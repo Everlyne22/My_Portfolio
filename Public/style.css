@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
-/* import google fonts from google */
-/* @import url("bootstrap.com") */
-/* styles the whole html */
+
 :root{
-    --main-color:#b96e28;
+    --main-color:#e38528;
 }
-/* Applies the stylesz throughout the whole html document */
+
 *{
     font-family: 'Roboto', sans-serif;
     margin:0; padding:0;
